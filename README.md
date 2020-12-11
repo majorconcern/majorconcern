@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-真是美好的一天 但是没有我美🤟
-
 <!--
 **langjinren/langjinren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
