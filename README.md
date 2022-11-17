@@ -22,6 +22,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 
 ## About My Github
 <div align="center">
@@ -33,7 +34,6 @@
 <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorconcern&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6" align="center" />
 </div> -->
 
-<br/>
 <br/>
 <br/>
 
