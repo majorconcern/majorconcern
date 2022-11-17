@@ -6,6 +6,7 @@
 </p>
 
 <br/>
+<br/>
 
 <div>
   <div>
@@ -34,6 +35,7 @@
 
 <br/>
 <br/>
+<br/>
 
 ## Connect with me
 <div align="left">
@@ -59,6 +61,3 @@
 <img src=https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white alt=slack style="margin-bottom: 5px;" />
 </a>
 </div>
-
-<br/>
-<br/>
