@@ -1,8 +1,7 @@
-[![github-profile](./assets/hello-pal.svg)](https://www.calligrapher.ai/)
+<!-- [![github-profile](./assets/hello-pal.svg)](https://www.calligrapher.ai/) -->
 
-<br/>
+<!-- <br/> -->
 
-<!-- visitor counter -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   <img src="https://profile-counter.glitch.me/majorconcern/count.svg" />
