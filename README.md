@@ -1,14 +1,10 @@
 <!-- [![github-profile](./assets/hello-pal.svg)](https://www.calligrapher.ai/) -->
-
 <!-- <br/> -->
-
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   <img src="https://profile-counter.glitch.me/majorconcern/count.svg" />
 </p>
 
-<br/>
-<br/>
 <br/>
 
 <div>
@@ -18,12 +14,9 @@
 </div>
 
 - 🐑  A post-90s person who loves software development.
-- 📍  北京(BJ).
+- 📍  北京(BEJ).
 - 👩‍💻  5 years of work.
 
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -38,9 +31,6 @@
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" align="center" />
 <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorconcern&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6" align="center" />
 </div> -->
-
-<br/>
-
 
 <br/>
 <br/>
@@ -69,3 +59,6 @@
 <img src=https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white alt=slack style="margin-bottom: 5px;" />
 </a>
 </div>
+
+<br/>
+<br/>
