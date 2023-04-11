@@ -5,30 +5,13 @@
   <img src="https://profile-counter.glitch.me/majorconcern/count.svg" />
 </p>
 
-<br/>
-<br/>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorconcern&layout=compact&theme=radical"/> -->
 
-<div>
-  <div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorconcern&layout=compact&theme=radical"/>
-  </div>
-</div>
-
-- 🐑  A post-90s person who loves software development.
-- 📍  北京(BEJ).
-- 👩‍💻  5 years of work.
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-## About My Github
+<!-- ## About My Github
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true"/>
 </div>
-
+ -->
 <!-- <div align="left">
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" align="center" />
 <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorconcern&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6" align="center" />
