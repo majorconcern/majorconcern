@@ -16,10 +16,7 @@
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" align="center" />
 <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorconcern&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6" align="center" />
 </div> -->
-
-<br/>
-<br/>
-
+<!-- 
 ## Connect with me
 <div align="left">
 <a href="mailto:jinren.lang@gmail.com" target="_blank">
@@ -43,4 +40,4 @@
 <a href="javascript:void(0)" target="_blank">
 <img src=https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white alt=slack style="margin-bottom: 5px;" />
 </a>
-</div>
+</div>-->
