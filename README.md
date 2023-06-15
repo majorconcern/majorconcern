@@ -25,7 +25,7 @@
 <a href="mailto:jinren.lang@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=twitter&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/majorconcernn" target="_blank">
+<a href="javascript:void(0)" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/majorconcern" target="_blank">
